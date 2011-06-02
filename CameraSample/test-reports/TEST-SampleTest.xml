@@ -1,0 +1,3 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite errors="0" failures="0" hostname="nakamura-kaori-no-MacBook-Air.local" name="SampleTest" tests="1" time="0.0" timestamp="Tue Dec 28 00:08:03 +0900 2010"><testcase classname='SampleTest' name='testMath' time='0.0' />
+</testsuite>

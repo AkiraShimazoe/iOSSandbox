@@ -1,0 +1,6 @@
+data/NSData+Base64.h.i
+data/NSData+Base64.m.i
+data/OAuth+Additions.h.i
+data/OAuth+Additions.m.i
+data/OAuthCore.h.i
+data/OAuthCore.m.i
